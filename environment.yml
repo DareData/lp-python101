@@ -1,0 +1,12 @@
+name: intro-to-python
+dependencies:
+  - python>=3.9
+  - pandas
+  - pip
+  - jupyterlab
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - openpyxl
+  - ipywidgets
+  - conda-forge::typeguard
