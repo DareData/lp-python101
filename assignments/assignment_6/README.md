@@ -13,9 +13,9 @@ Create a script `auto.py` with three functions, a `load_auto` function that load
 
 Can you replicate the plots below using the `auto` DataFrame? You can plot them one by one, but pay attention to the titles.
 <p float='left'>
-    <img src=media/exercise-mpg_per_year.png width="400" />
-    <img src=media/exercise-models_per_cylinders.png width="400" />
-    <img src=media/exercise-weight_acceleration.png width="400" />
+    <img src=media/exercise-mpg_per_year.png width="300" />
+    <img src=media/exercise-models_per_cylinders.png width="300" />
+    <img src=media/exercise-weight_acceleration.png width="300" />
 </p>
 
 Tip: you can copy-paste (boring!!) the functions that you will create for the script OR you can import the functions FROM the script (feels-like-hacking!)
