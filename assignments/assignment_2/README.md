@@ -1,13 +1,13 @@
 # Jupyter notebook
 
-    Create the following list [50, 60, 70, 80, 90, 100]
-    Create a countdown from 10 to 0 with range (like New Year's Eve!!)
-    Given an empty list
-        Add the following elements: 2, 3, 5, 8, 13
-        Store the first element in the 'first' variable
-        Store the last element in the 'last' variable
-        Store the third element in the 'third' variable
-        Store the second to last element in the 'second_to_last' variable
+- Create the following list [50, 60, 70, 80, 90, 100]
+- Create a countdown from 10 to 0 with range (like New Year's Eve!!)
+- Given an empty list
+   - Add the following elements: 2, 3, 5, 8, 13
+   - Store the first element in the 'first' variable
+   - Store the last element in the 'last' variable
+   - Store the third element in the 'third' variable
+   - Store the second to last element in the 'second_to_last' variable
 
 # Script
 
