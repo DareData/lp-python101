@@ -1,0 +1,10 @@
+name = input("What is your name? ")
+habit = input("What is your weirdest habit? ")
+hobbie = input("What is your favourite hobbie? ")
+quality = input("What is your best quality? ")
+
+print("\n\nUser Profile \n")
+print("Name: " + name)
+print("Weirdest Habit: " + habit)
+print("Favourite Hobbie: " + hobbie)
+print("Best Quality: " + quality)
