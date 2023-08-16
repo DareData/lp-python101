@@ -4,8 +4,8 @@ Check which of the built-in functions allows you to:
 
 - Iterate over multiple iterables at the same time and use it to print full names from names and surnames.
 
-  names = ['Jake','Amy','Raymond','Rosa','Charles','Terry']
-  surnames = ['Peralta','Santiago','Holt','Diaz','Boyle','Jeffords']
+    names = ['Jake','Amy','Raymond','Rosa','Charles','Terry']
+    surnames = ['Peralta','Santiago','Holt','Diaz','Boyle','Jeffords']
 
 - Get the smallest/largest item in an iterable. Use 
 
@@ -15,7 +15,7 @@ Check which of the built-in functions allows you to:
 
     list_with_true = [1,4,"ChatGPT",True,13.4]
     list_with_true_2 = [1,4,"ChatGPT",False,13.4]
-    list_without_true = [0,0,"",False,False]`
+    list_without_true = [0,0,"",False,False]
 
 Notice that Python interprets False, 0 or empty strings as False while the rest of the elements as True.
 - Check if all elements of an iterable are True. You can reuse `list_with_true` and `list_with_true_2`.
