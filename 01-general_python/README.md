@@ -30,3 +30,14 @@ The operators allow you to perform operations on variables and values. There are
 <img src="media/v5MR5JnKcZIhd.jpg" alt="Basic operators" width="300" height="auto">
 
 [Link to video](https://www.youtube.com/watch?v=v5MR5JnKcZI)
+
+## How to execute a Python Script from the command line
+
+## How to run Notebooks
+
+## Let's play!
+
+Before leaving this section, it's important that you can execute your own Python code and be comfortable with Jupyter notebooks.
+Head over to the `1-general_python.ipynb` and run the code you see in there. Also, try to run the `example.py` file from the command line! 
+
+After being able to do both of these tasks, you're good to go!
