@@ -1,0 +1,8 @@
+pandas
+jupyterlab
+scikit-learn
+matplotlib
+seaborn
+openpyxl
+ipywidgets
+typeguard
