@@ -35,11 +35,17 @@ The operators allow you to perform operations on variables and values. There are
 
 ## How to execute a Python Script from the command line
 
+TBD
+
 ## How to run Notebooks
+
+TBD
 
 ## Let's play!
 
 Before leaving this section, it's important that you can execute your own Python code and be comfortable with Jupyter notebooks.
 Head over to the `1-general_python.ipynb` and run the code you see in there. Also, try to run the `example.py` file from the command line! 
+
+Also, take a shot at the quiz we've prepared for you [here](https://forms.gle/L13J3jQk16gmypw16)
 
 After being able to do both of these tasks, you're good to go!
