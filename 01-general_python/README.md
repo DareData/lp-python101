@@ -33,13 +33,13 @@ The operators allow you to perform operations on variables and values. There are
 
 [Link to video](https://www.youtube.com/watch?v=v5MR5JnKcZI)
 
-## How to execute a Python Script from the command line
+## How to execute a Python Script from the command line (00:05)
 
-TBD
+In this [video](https://www.youtube.com/watch?v=Shf5m_Uol9g&t=119s), you will learn how to execute Python scripts (`.py` files) via the command line. This will be helpful for executing the task at the end of the section!
 
-## How to run Notebooks
+## How to use Notebooks inside VSCode (00:04)
 
-TBD
+In this [video](https://www.youtube.com/watch?v=h1sAzPojKMg), you'll learn how to use Notebooks inside VSCode. *Note: you can also use Jupyter Notebooks to view the `ipynb` files available in the course materials, though we are showing you a video with VSCode because we really want to incentivize the usage of IDEs* :-)
 
 ## Let's play!
 
